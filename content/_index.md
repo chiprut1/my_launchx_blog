@@ -12,6 +12,6 @@ Mis espectativas para este proyecto son:
  - Aprender sobre Git y GitHub
  - Aprender sobre JavaScript
  - Utilizar nuevas herramientas
- - Ser feliz :smile:
+ - Ser feliz 😀
 
 🚀
