@@ -18,5 +18,15 @@ La cultura de un desarollador de software desde mi perspectiva se basa en lo sig
  Respeto (aunque ese debe de gobernar todas nuestras acciones) Ownership (desconozco el termino en español) en el cual te haces responsable y propietario del desarrollo Transparencia Dedicación  </description>
     </item>
     
+    <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://chiprut1.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chiprut1.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Aquí un breve listado de lo que he aprendido en estas ultimas semanas de participar en el proyecto de Launch X
+ Git y GitHub Tenía conocimientos del control de versiones pero usando SVN y tenía muchas ganas de probar Git, y me ha encantado Python Uno de los lenguajes mas populares y apenas le dimos una hojeada HTML Reafirmar conocimientos en HTML CSS Apenas la punta del Iceberg VUE.JS Una probadita que me dejo con ganas de mas  </description>
+    </item>
+    
   </channel>
 </rss>
